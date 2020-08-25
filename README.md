@@ -2,8 +2,6 @@
 
 ## About Project:
 
-<br />
-
 ### Project Description
 
 This project is about an online platform to manage all aspects of schools educational flow to ensure the high quality education and healthy school life for students.
@@ -17,11 +15,7 @@ This project is about an online platform to manage all aspects of schools educat
 ### Monthly Retainer
 Confidential (depends on designer / developers experience).
 
-<br />
-
 ## What we're looking for:
-
-<br /> 
 
 ### we are looking for a UI/UX Designer with:
 
@@ -54,8 +48,6 @@ Confidential (depends on designer / developers experience).
 - Critical thinker and problem-solving skills
 
 - Multi-tasking and time-management skills, with the ability to prioritize tasks.
-
-<br />
 
 ### we are looking for a React Native Developer with:
 
@@ -92,8 +84,6 @@ Confidential (depends on designer / developers experience).
 - Critical thinker and problem-solving skills
 
 - Multi-tasking and time-management skills, with the ability to prioritize tasks.
-
-<br />https://github.com/TrackKid/Hiring/blob/master/README.md
 
 ### we are looking for a Node.js with:
 - In-depth knowledge of Node.js and its frameworks like express.js.
